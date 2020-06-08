@@ -26,3 +26,10 @@ Sample Teaching Materials:
 - A set of slides discussing estimation in sensor networks from a guest lecture I gave in a UCSB Summer 2019 class on Networks taught by Shadi Mohagheghi:
 [Network Estimation Slides](https://github.com/sharadcs/sharadcs.github.io/blob/master/assets/SummerNetworksClass.pdf)
 
+- A document describing the modeling and control of Roombas for mentoring projects:
+[Network Estimation Slides](https://github.com/sharadcs/sharadcs.github.io/blob/master/assets/Roomba_Control.pdf)
+
+- A few example homework solutions I have written:
+[Example 1](https://github.com/sharadcs/sharadcs.github.io/blob/master/assets/HW3_solutions.pdf) / 
+[Example 2](https://github.com/sharadcs/sharadcs.github.io/blob/master/assets/HW8_solutions.pdf)
+
