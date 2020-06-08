@@ -9,4 +9,4 @@ First Author Publications:
 
 
 Statement on inclusion and preventing bullying/harassment in UCSB research facilities:
-- [Working Towards a Safe and Inclusive Culture](https://github.com/sharadcs/sharadcs.github.io/blob/master/assets/Working_Towards_a_Safe_and_Inclusive_Culture(3).pdf)
+- [Working Towards a Safe and Inclusive Culture](https://github.com/sharadcs/sharadcs.github.io/blob/master/assets/Working_Toward_a_Safe_and_Inclusive_Culture(3).pdf)
